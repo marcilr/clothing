@@ -1,0 +1,6 @@
+clothing.txt
+Created Tue Nov  7 08:17:03 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Clothing
